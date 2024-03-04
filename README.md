@@ -8,3 +8,4 @@
 - Wright's law - economy of scale
 - Swanson's Law -  Solar PV
 - Harris' law - Optical computing
+- Edholm's law - Telecommunication
