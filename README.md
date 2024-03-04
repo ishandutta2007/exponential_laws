@@ -1,6 +1,6 @@
 # exponential_laws
 
-- Moore's law
+- Moore's law - CPU
 - Huang's law - GPU
 - Neven's Law - Quantum Computing
 - Carlson curve - Biotech
